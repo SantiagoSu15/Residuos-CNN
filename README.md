@@ -40,4 +40,4 @@ Debido a restricciones de licencia, no puede subirse al repositorio.
 
 ##  Integrantes del equipo
 - Nicolas Esteban Toro Criollo
-- Santiago Suarez Puchigay
+- Santiago Suarez 
